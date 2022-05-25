@@ -1,10 +1,14 @@
-# Project 1 For Section 3 In Udemy Tutorial (React - The Complete Guide)
+# Project 1 For Udemy Tutorial (React - The Complete Guide)
 
 This project contains my own solution for Assignment 1 found in ./src/components/Expenses/Expenses.jsx
 
 ## Available Scripts
 
 In the project directory, you can run:
+
+### `npm install`
+
+Installs project dependencies
 
 ### `npm start`
 
