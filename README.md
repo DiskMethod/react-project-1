@@ -1,6 +1,8 @@
 # Project 1 For Udemy Tutorial (React - The Complete Guide)
 
-This project contains my own solution for Assignment 1 found in ./src/components/Expenses/Expenses.jsx
+This project is a simple expenses manager that follows along with the udemy tutorial: [https://www.udemy.com/course/react-the-complete-guide-incl-redux/](https://www.udemy.com/course/react-the-complete-guide-incl-redux/l)
+
+So far I've completed assignments 1 and 2.
 
 ## Available Scripts
 
