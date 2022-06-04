@@ -1,8 +1,8 @@
 # Project 1 For Udemy Tutorial (React - The Complete Guide)
 
-This project is a simple expenses manager that follows along with the udemy tutorial: [https://www.udemy.com/course/react-the-complete-guide-incl-redux/](https://www.udemy.com/course/react-the-complete-guide-incl-redux/l)
+This project is a simple expenses manager that follows along with the udemy tutorial: [https://www.udemy.com/course/react-the-complete-guide-incl-redux/](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)
 
-So far I've completed assignments 1 and 2.
+All assignments (1-4) have been completed.
 
 ## Available Scripts
 
